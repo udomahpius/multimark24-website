@@ -8,6 +8,22 @@
  body, html{
   background: rgb(250, 252, 251) !important;
  }
+.text-primary{
+    color:#b47808 !important;
+}
+.bg-primary {
+    background-color: #b47808 !important;
+}
+body{
+    background-color: rgb(252, 255, 255);
+}
+.width-100{
+width: 0 auto !important;
+overflow: hidden;
+}
+.row .service-item .service-img img{
+    mix-blend-mode:luminosity;
+}
 
 
  /* nav fix */
@@ -3940,7 +3956,7 @@ input[type="button"].btn-block {
   }
 }
 
-.nav {
+/* .nav {
   display: flex;
   flex-wrap: wrap;
   padding-left: 0;
@@ -4382,7 +4398,7 @@ input[type="button"].btn-block {
 
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
   color: #fff;
-}
+} */
 
 .card {
   position: relative;

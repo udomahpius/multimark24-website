@@ -22,9 +22,7 @@ overflow: hidden;
 }
 .row .service-item .service-img img{
     mix-blend-mode:luminosity;
-    background-color: #0d6efd;
 }
-
 @media screen and (min-width:300px) {
      .sm-width-100{
         height: auto !important;

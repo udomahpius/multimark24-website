@@ -82,6 +82,13 @@
             }
         }
     });
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 45) {
+      $(".navbar").addClass("sticky-top shadow-sm");
+    } else {
+      $(".navbar").removeClass("sticky-top shadow-sm");
+    }
+  });
 
 
     // Product Quantity
@@ -104,14 +111,15 @@
 
 
 
-let eleNavFix = document.getElementById('nav-fix');
-const fixFunction = () => {
-    window.addEventListener('scroll', () => {
-        if (window.scrollY > 500) {
-            eleNavFix.classList.add('fix')
-        } else {
-            eleNavFix.classList.remove('fix')
-        }
-    })
-}
-fixFunction()
+// let eleNavFix = document.getElementById('nav-fix');
+// const fixFunction = () => {
+//     window.addEventListener('scroll', () => {
+//         if (window.scrollY > 500) {
+//             eleNavFix.classList.add('fix')
+//         } else {
+//             eleNavFix.classList.remove('fix')
+//         }
+//     })
+// }
+// fixFunction()
+
