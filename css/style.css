@@ -225,10 +225,10 @@ overflow: hidden;
 }
 
 @media (max-width: 991.98px) {
-    .sticky-top.navbar-light {
+    /* .sticky-top.navbar-light {
         position: relative;
         background: var(--bs-white);
-    }
+    } */
 
     .navbar.navbar-expand-lg .navbar-toggler {
         padding: 10px 20px;
@@ -257,6 +257,17 @@ overflow: hidden;
     }
 }
 
+@media (min-width: 300px) {
+    
+    
+    .sticky-top.navbar-light {
+        position: fixed;
+        background: var(--bs-light);
+        width: 100% !important;
+    }
+    
+}
+
 @media (min-width: 992px) {
     .navbar .nav-item .dropdown-menu {
         display: block;
@@ -283,6 +294,7 @@ overflow: hidden;
         position: fixed;
         background: var(--bs-light);
     }
+    
 
     .navbar-light .navbar-nav .nav-link::before {
         position: absolute;
