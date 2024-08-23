@@ -2024,13 +2024,16 @@ h2 {
 }
 
 
+@media screen and (min-width:700px){
   .brand .container-fluid .brand-slider .brand-item{
-    height: 55vh;
+    height: 60vh;
     z-index: 1000;
+}
+
 }
 @media screen and (max-width:700px){
     .brand .container-fluid .brand-slider .brand-item{
-        height: 45vh !important;
+        height: auto !important;
         z-index: 1000;
     }
 
