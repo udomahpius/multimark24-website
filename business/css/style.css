@@ -231,7 +231,7 @@ button:focus {
         .banner_area .banner_inner .banner_content .page_link a:last-child:before {
           display: none; }
       .banner_area .banner_inner .banner_content .page_link a:hover {
-        color: #4dbf1c; }
+        color: #b47808; }
 
 /* End Home Banner Area css
 ============================================================================================ */
@@ -263,7 +263,7 @@ button:focus {
   .l_blog_item p {
     margin-bottom: 0px; }
   .l_blog_item:hover h4 {
-    color: #4dbf1c; }
+    color: #b47808; }
 
 /* End Latest Blog Area css
 ============================================================================================ */
@@ -299,7 +299,7 @@ button:focus {
   text-align: center;
   color: #222222; }
   .tags .tag_btn:before {
-    background: #4dbf1c; }
+    background: #b47808; }
   .tags .tag_btn + .tag_btn {
     margin-left: 2px; }
 
@@ -360,7 +360,7 @@ button:focus {
       .blog_info .post_tag a:hover {
         color: #777777; }
       .blog_info .post_tag a.active {
-        color: #4dbf1c; }
+        color: #b47808; }
   .blog_info .blog_meta li a {
     font: 300 14px/20px "Roboto", sans-serif;
     color: #777777;
@@ -375,7 +375,7 @@ button:focus {
       line-height: 20px;
       vertical-align: middle; }
     .blog_info .blog_meta li a:hover {
-      color: #4dbf1c; }
+      color: #b47808; }
 
 .blog_post img {
   max-width: 100%; }
@@ -578,7 +578,7 @@ button:focus {
   font-weight: 400; }
 
 .blog-pagination .page-item.active .page-link {
-  background-color: #4dbf1c;
+  background-color: #b47808;
   border-color: transparent;
   color: #fff; }
 
@@ -601,7 +601,7 @@ button:focus {
 .blog-pagination .page-link:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #4dbf1c;
+  background-color: #b47808;
   border-color: #eee; }
 
 /*============ Start Blog Single Styles  =============*/
@@ -735,7 +735,7 @@ button:focus {
     font-weight: 600;
     transition: all 300ms linear 0s; }
     .comments-area .btn-reply:hover {
-      background-color: #4dbf1c;
+      background-color: #b47808;
       color: #fff; }
 
 .comment-form {
@@ -2229,14 +2229,14 @@ h6 {
   cursor: pointer;
   transition: all 300ms linear 0s; }
   .main_btn2:hover {
-    background: #4dbf1c;
+    background: #b47808;
     color: #fff;
-    border-color: #4dbf1c; }
+    border-color: #b47808; }
 
 .submit_btn {
   width: auto;
   display: inline-block;
-  background: #4dbf1c;
+  background: #b47808;
   padding: 0px 50px;
   color: #fff;
   font-family: "Roboto", sans-serif;
@@ -2451,7 +2451,7 @@ h6 {
     padding-right: 35px; }
     .courses_inner .hover_text .cat {
       display: inline-block;
-      background: #4dbf1c;
+      background: #b47808;
       color: #fff;
       padding: 0px 25px;
       border-radius: 5px;
@@ -2477,7 +2477,7 @@ h6 {
       .courses_inner .hover_text .list li:last-child {
         margin-right: 0px; }
     .courses_inner .hover_text:hover h4 {
-      color: #4dbf1c; }
+      color: #d8d8d7; }
 
 .wd55 {
   width: 55.55%;
@@ -2576,7 +2576,7 @@ h6 {
   padding-right: 25px; }
   .finance_item .media .d-flex i {
     font-size: 36px;
-    color: #4dbf1c; }
+    color: #b47808; }
 .finance_item .media .media-body h5 {
   color: #222222;
   font-size: 18px;
