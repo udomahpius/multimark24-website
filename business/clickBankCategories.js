@@ -2,25 +2,25 @@ const ClickBankProduct = {
   businessInvesting: [
     {
       id: 1,
-      img: `<img class="img-fluid" src="./img/latest-blog/l-blog-1.jpg" alt="">`,
-      link: `<a href="single-blog.html"><h4>Addiction When Gambling Becomes A Problem</h4></a>`,
-      title: `26 October, 2018 | By Mark Wiens`,
+      img: `<img class="img-fluid" src="./img/vol-1/b-1.jpg" alt="">`,
+      link: `<a href="https://2b014qqdtzsqfv518kn2uwakfl.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Profitable Trading Tool Predicts Any Market 24/7 </h4></a>`,
+      title: `This powerful trading tool predicts all markets with a high win rate.  75% commission! Affiliates earn 4-5 figures daily.`,
     },
     {
       id: 2,
-      img: `<img class="img-fluid" src="./img/latest-blog/l-blog-1.jpg" alt="">`,
-      link: `<a href="single-blog.html"><h4>Addiction When Gambling Becomes A Problem</h4></a>`,
-      title: `26 October, 2018 | By Mark Wiens`,
+      img: `<img class="img-fluid" src="./img/vol-1/b-2.jpg" alt="">`,
+      link: `<a href="https://828cflhev3kq4z7jmx6nj524t7.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Converts cold and warm traffic. 75% payouts. Broad market appeal.</h4></a>`,
+      title: `MicroBanking Method: High converting real estate course, strong profits, high demand.`,
     },
     {
       id: 3,
-      img: `<img class="img-fluid" src="./img/latest-blog/l-blog-1.jpg" alt="">`,
+      img: `<img class="img-fluid" src="./img/vol-1/b-1.jpg" alt="">`,
       link: `<a href="single-blog.html"><h4>Addiction When Gambling Becomes A Problem</h4></a>`,
       title: `26 October, 2018 | By Mark Wiens`,
     },
     {
       id: 4,
-      img: `<img class="img-fluid" src="./img/latest-blog/l-blog-1.jpg" alt="">`,
+      img: `<img class="img-fluid" src="./img/vol-1/b-1.jpg" alt="">`,
       link: `<a href="single-blog.html"><h4>Addiction When Gambling Becomes A Problem</h4></a>`,
       title: `26 October, 2018 | By Mark Wiens`,
     },
