@@ -116,7 +116,7 @@ eBook Compiler Software & more: Comprehensive tools for digital publishing</h4><
     {
       id: 2,
       img: `<img class="img-fluid" src="./img/vol-5/b-2.jpg" alt="">`,
-      link: `<a href="single-blog.html"><h4>
+      link: `<a href="https://50d64gmlq8oqdo1x2ds8mspb34.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>
 Billionaire Brain Wave: New VSL from an 8-figure marketer.</h4></a>`,
       title: `High conversions, fat EPCs, killer copy, and a great product. This brand-new VSL is a monster. Test your traffic and see why affiliates love promoting this offer.`,
     },
@@ -133,6 +133,59 @@ Billionaire Brain Wave: New VSL from an 8-figure marketer.</h4></a>`,
       title: `Top CB seller for over a decade! Evergreen niche, huge market. Earn $125/sale with an optimized funnel at 11% conversions and 75% commission on front & upsells.`,
     },
   ],
+  warframeTradingHub: [
+    {
+      id: 1,
+      img: `<img class="img-fluid" src="./img/vol-6/b-1.jpg" alt="">`,
+      link: `<a href="https://1fef7jonxxxx2m76smtny4tyet.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>VIP Indicators: Profitable trading tool that predicts any market 24/7.</h4></a>`,
+      title: `This powerful trading indicator predicts all markets with a high win rate. `,
+    },
+    {
+      id: 2,
+      img: `<img class="img-fluid" src="./img/vol-6/b-2.jpg" alt="">`,
+      link: `<a href="https://96d2bfpgszty2wf5os-2zj-h8c.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Forex Mentor Pro: Forex trading site online—optimized for mobile.</h4></a>`,
+      title: `High converting $69/month Forex trading course & mentoring. Earn monthly commissions for the life of the member`,
+    },
+    {
+      id: 3,
+      img: `<img class="img-fluid" src="./img/vol-6/b-3.jpg" alt="">`,
+      link: `<a href="https://www.tradeology.com/fxam_aff.php"><h4>FX Annihilation Method: Proven strategy for Forex success.</h4></a>`,
+      title: `Forex training and trading system for new, intermediate, and advanced traders.`,
+    },
+    {
+      id: 4,
+      img: `<img class="img-fluid" src="./img/vol-6/b-4.jpg" alt="">`,
+      link: `<a href="https://4d6dcjlir7ttcp101isjh3ux52.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Forex Candlesticks Made Easy: Simplified trading insights.</h4></a>`,
+      title: `Converts at 8.41% (1:12). Related: Forex, FX, currency, trading, investment, candlestick, stock, finance, Fibonacci, chart.`,
+    },
+  ],
+    youTubeService: [
+    {
+      id: 1,
+      img: `<img class="img-fluid" src="./img/vol-7/b-1.jpg" alt="">`,
+      link: `<a href="https://1fef7jonxxxx2m76smtny4tyet.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>VIP Indicators: Profitable trading tool that predicts any market 24/7.</h4></a>`,
+      title: `This powerful trading indicator predicts all markets with a high win rate. `,
+    },
+    {
+      id: 2,
+      img: `<img class="img-fluid" src="./img/vol-7/b-2.jpg" alt="">`,
+      link: `<a href="https://96d2bfpgszty2wf5os-2zj-h8c.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Forex Mentor Pro: Forex trading site online—optimized for mobile.</h4></a>`,
+      title: `High converting $69/month Forex trading course & mentoring. Earn monthly commissions for the life of the member`,
+    },
+    {
+      id: 3,
+      img: `<img class="img-fluid" src="./img/vol-7/b-3.jpg" alt="">`,
+      link: `<a href="https://www.tradeology.com/fxam_aff.php"><h4>FX Annihilation Method: Proven strategy for Forex success.</h4></a>`,
+      title: `Forex training and trading system for new, intermediate, and advanced traders.`,
+    },
+    {
+      id: 4,
+      img: `<img class="img-fluid" src="./img/vol-7/b-4.jpg" alt="">`,
+      link: `<a href="https://4d6dcjlir7ttcp101isjh3ux52.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Forex Candlesticks Made Easy: Simplified trading insights.</h4></a>`,
+      title: `Converts at 8.41% (1:12). Related: Forex, FX, currency, trading, investment, candlestick, stock, finance, Fibonacci, chart.`,
+    },
+  ],
+
 };
 
 // ClickBankProduct businessInvesting section 
@@ -291,6 +344,135 @@ const ClickBankProductContainer_5 = () => {
   );
 };
 ClickBankProductContainer_5();
+
+// ClickBankProduct warframeTradingHub section  
+
+const ClickBankProductContainer_6 = () => {
+  let ClickBankProductHtml_6 = document.querySelector(
+    ".html-ClickBankProduct_6"
+  );
+  let displayClickBankProductItem_6 = "";
+  ClickBankProduct.warframeTradingHub.map(
+    (ClickBankProductItem_6) => {
+      const { img, title, link} =
+        ClickBankProductItem_6;
+      displayClickBankProductItem_6 += `
+        <div class="col-lg-3 col-md-6">
+						<div class="l_blog_item">
+							<a href="">
+							${img}
+							</a>
+							<p class="date">${title}</p>
+							${link}
+						</div>
+						
+					</div>
+  `;
+      ClickBankProductHtml_6.innerHTML =
+        displayClickBankProductItem_6;
+    }
+  );
+};
+ClickBankProductContainer_6();
+
+
+// ClickBankProduct youTubeService section  
+
+const ClickBankProductContainer_7 = () => {
+  let ClickBankProductHtml_7 = document.querySelector(
+    ".html-ClickBankProduct_7"
+  );
+  let displayClickBankProductItem_7 = "";
+  ClickBankProduct.youTubeService.map(
+    (ClickBankProductItem_7) => {
+      const { img, title, link} =
+        ClickBankProductItem_7;
+      displayClickBankProductItem_7 += `
+        <div class="col-lg-3 col-md-6">
+						<div class="l_blog_item">
+							<a href="">
+							${img}
+							</a>
+							<p class="date">${title}</p>
+							${link}
+						</div>
+						
+					</div>
+  `;
+      ClickBankProductHtml_7.innerHTML =
+        displayClickBankProductItem_7;
+    }
+  );
+};
+ClickBankProductContainer_7();
+
+
+
+// ClickBankProduct directOfferTracking section  
+
+const ClickBankProductContainer_8 = () => {
+  let ClickBankProductHtml_8 = document.querySelector(
+    ".html-ClickBankProduct_8"
+  );
+  let displayClickBankProductItem_8 = "";
+  ClickBankProduct.directOfferTracking.map(
+    (ClickBankProductItem_8) => {
+      const { img, title, link} =
+        ClickBankProductItem_8;
+      displayClickBankProductItem_8 += `
+        <div class="col-lg-3 col-md-6">
+						<div class="l_blog_item">
+							<a href="">
+							${img}
+							</a>
+							<p class="date">${title}</p>
+							${link}
+						</div>
+						
+					</div>
+  `;
+      ClickBankProductHtml_8.innerHTML =
+        displayClickBankProductItem_8;
+    }
+  );
+};
+ClickBankProductContainer_8();
+
+
+
+// ClickBankProduct directOfferTracking section  
+
+const ClickBankProductContainer_9 = () => {
+  let ClickBankProductHtml_9 = document.querySelector(
+    ".html-ClickBankProduct_9"
+  );
+  let displayClickBankProductItem_9 = "";
+  ClickBankProduct.directOfferTracking.map(
+    (ClickBankProductItem_9) => {
+      const { img, title, link} =
+        ClickBankProductItem_9;
+      displayClickBankProductItem_9 += `
+        <div class="col-lg-3 col-md-6">
+						<div class="l_blog_item">
+							<a href="">
+							${img}
+							</a>
+							<p class="date">${title}</p>
+							${link}
+						</div>
+						
+					</div>
+  `;
+      ClickBankProductHtml_9.innerHTML =
+        displayClickBankProductItem_9;
+    }
+  );
+};
+ClickBankProductContainer_9();
+
+
+
+
 
 
 

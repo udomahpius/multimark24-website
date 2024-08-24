@@ -2724,8 +2724,11 @@ h6 {
 /* Looking Area css
 ============================================================================================ */
 .impress_area {
-  background: url(../img/notify-bg.jpg) no-repeat scroll center center;
-  background-size: cover; }
+  background: url(/productforsale/assets/images/logos/multimark24logo-house-bg.png) no-repeat scroll center center;
+  background-size: cover; 
+  background-blend-mode: soft-light;
+  background-color: #181102;
+}
   .impress_area .impress_inner {
     color: #fff; }
     .impress_area .impress_inner h2 {

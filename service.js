@@ -32,7 +32,6 @@ const serviceCollect = [
     link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#affiliate">Learn More</a> `,
   },
 
- 
   {
     id: 5,
     img: `<img src="./img/service/service-5.jpeg" class="img-fluid rounded-top w-100" alt="">`,
@@ -40,19 +39,21 @@ const serviceCollect = [
     body: ` Enhance your marketing strategy with direct offer tracking tools to measure campaign performance, boost conversions, and drive actionable insights.`,
     link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#tracking">Learn More</a> `,
   },
- 
+
   {
     id: 6,
     img: `<img src="./img/service/service-6.jpeg" class="img-fluid rounded-top w-100" alt="">`,
-    title: ` E-commerce Trends and Their Impact on Traditional Retail `,
-    body: `Understanding the shift towards online shopping and how traditional retailers can adapt.`,
-    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
+    title: `Kelley Blue Book Trade-In Estimate`,
+    body: `Get accurate trade-in estimates with Kelley Blue Book, helping you make informed decisions and maximize the value of your vehicle.`,
+    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#trading">Learn More</a> `,
   },
+
   {
     id: 7,
     img: `<img src="./img/service/service-7.jpeg" class="img-fluid rounded-top w-100" alt="">`,
-    title: `Customer Retention Strategies for Long-Term Success `,
-    body: ` Methods to keep customers engaged and loyal through excellent customer service, loyalty programs, and personalized marketing.`,
+    title: `YouTube Service `,
+    body: ` Boost your YouTube presence with expert services that enhance video performance, optimize channel growth, and maximize
+					viewer engagement.`,
     link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
   },
   {
