@@ -4,38 +4,43 @@ const serviceCollect = [
   {
     id: 1,
     img: `<img src="./img/service/service-1.jpeg" class="img-fluid rounded-top w-100" alt="">`,
-    title: ` Digital Marketing Strategies for Small Businesses `,
-    body: ` Exploring cost-effective ways for small businesses to leverage digital marketing channels like social media, email marketing, and SEO.`,
-    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
+    title: ` Business & Investing `,
+    body: ` Master the digital landscape with cutting-edge strategies in e-business and e-marketing to drive online growth and customer engagement.`,
+    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#business">Learn More</a> `,
   },
   {
     id: 2,
     img: `<img src="./img/service/service-2.jpeg" class="img-fluid rounded-top w-100" alt="">`,
-    title: ` The Impact of Social Media Influencers on Consumer Behavior `,
-    body: ` Analyzing how influencers shape purchasing decisions and how brands can effectively collaborate with them.`,
-    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
+    title: ` E-Business & E-Marketing`,
+    body: ` Master the digital landscape with cutting-edge strategies in e-business and e-marketing to drive online growth and customer engagement.`,
+    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#e-marketing">Learn More</a> `,
   },
   {
     id: 3,
     img: `<img src="./img/service/service-3.jpeg" class="img-fluid rounded-top w-100" alt="">`,
-    title: ` Content Marketing: Creating Value for Your Audience`,
-    body: ` Techniques for developing engaging content that attracts and retains customers.`,
-    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
+    title: ` Software & Services`,
+    body: ` Explore the latest in software solutions and services to enhance productivity, streamline operations, and drive innovation across industries
+`,
+    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#software">Learn More</a> `,
   },
+
   {
     id: 4,
     img: `<img src="./img/service/service-4.jpeg" class="img-fluid rounded-top w-100" alt="">`,
-    title: ` The Role of Data Analytics in Modern Marketing `,
-    body: ` Utilizing data to drive marketing strategies, understand customer behavior, and measure campaign effectiveness.`,
-    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
+    title: `  Affiliate Tools `,
+    body: ` Discover essential affiliate tools to optimize your marketing efforts, boost performance, and maximize revenue through strategic partnerships.`,
+    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#affiliate">Learn More</a> `,
   },
+
+ 
   {
     id: 5,
     img: `<img src="./img/service/service-5.jpeg" class="img-fluid rounded-top w-100" alt="">`,
-    title: ` Building a Strong Brand Identity`,
-    body: ` Steps to create a compelling brand story, logo, and messaging that resonate with your target audience.`,
-    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
+    title: `  Direct Offer Tracking`,
+    body: ` Enhance your marketing strategy with direct offer tracking tools to measure campaign performance, boost conversions, and drive actionable insights.`,
+    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#tracking">Learn More</a> `,
   },
+ 
   {
     id: 6,
     img: `<img src="./img/service/service-6.jpeg" class="img-fluid rounded-top w-100" alt="">`,
