@@ -54,21 +54,23 @@ const serviceCollect = [
     title: `YouTube Service `,
     body: ` Boost your YouTube presence with expert services that enhance video performance, optimize channel growth, and maximize
 					viewer engagement.`,
-    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
+    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#youtube">Learn More</a> `,
   },
   {
     id: 8,
     img: `<img src="./img/service/service-8.jpeg" class="img-fluid rounded-top w-100" alt="">`,
-    title: ` The Importance of Mobile Marketing in Today's Business Landscape `,
-    body: ` How to optimize marketing efforts for mobile devices to reach a broader audience.`,
-    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
+    title: ` Amazon Platform `,
+    body: `Leverage the power of the Amazon platform to grow your business, reach global customers, and maximize sales with proven
+					strategies.`,
+    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#amazon">Learn More</a> `,
   },
   {
     id: 9,
     img: `<img src="./img/service/service-9.jpeg" class="img-fluid rounded-top w-100" alt="">`,
-    title: `The Future of Artificial Intelligence in Marketing`,
-    body: ` Exploring the potential of AI to revolutionize marketing through personalized experiences, chatbots, and predictive analytics.`,
-    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="#">Learn More</a> `,
+    title: `Search Ranking Strategy`,
+    body: ` Elevate your online visibility with effective search ranking strategies that drive organic traffic, improve SEO, and
+					boost your site's performance.`,
+    link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#seo">Learn More</a> `,
   },
 ];
 

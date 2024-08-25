@@ -159,33 +159,85 @@ Billionaire Brain Wave: New VSL from an 8-figure marketer.</h4></a>`,
       title: `Converts at 8.41% (1:12). Related: Forex, FX, currency, trading, investment, candlestick, stock, finance, Fibonacci, chart.`,
     },
   ],
-    youTubeService: [
+  youTubeService: [
     {
       id: 1,
       img: `<img class="img-fluid" src="./img/vol-7/b-1.jpg" alt="">`,
-      link: `<a href="https://1fef7jonxxxx2m76smtny4tyet.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>VIP Indicators: Profitable trading tool that predicts any market 24/7.</h4></a>`,
-      title: `This powerful trading indicator predicts all markets with a high win rate. `,
+      link: `<a href="https://92d96nni01nv7r4ruav6zjh8pu.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Get Paid To Use Facebook, Twitter and YouTube</h4></a>`,
+      title: `12 years on CB! Ideal for social media and MMO traffic. Everyone wants to get paid to be on Facebook. Dedicated affiliate manager, bonuses, commission bumps, custom landing pages, and geo-targeting`,
     },
     {
       id: 2,
       img: `<img class="img-fluid" src="./img/vol-7/b-2.jpg" alt="">`,
-      link: `<a href="https://96d2bfpgszty2wf5os-2zj-h8c.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Forex Mentor Pro: Forex trading site online—optimized for mobile.</h4></a>`,
-      title: `High converting $69/month Forex trading course & mentoring. Earn monthly commissions for the life of the member`,
+      link: `<a href="https://aed11tldu4p-5w6iq7sf1mq-3u.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Astonishing Conversions - Online Allure</h4></a>`,
+      title: `Astonishing conversions on this new Online Dating for women program from Digital Romance. Great opportunity for Youtube`,
     },
     {
       id: 3,
       img: `<img class="img-fluid" src="./img/vol-7/b-3.jpg" alt="">`,
-      link: `<a href="https://www.tradeology.com/fxam_aff.php"><h4>FX Annihilation Method: Proven strategy for Forex success.</h4></a>`,
-      title: `Forex training and trading system for new, intermediate, and advanced traders.`,
+      link: `<a href="https://8983ansfu3ou0k3kw4rr6t1kae.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>The Backyard Miracle Farm: This offer will drop like a bomb!</h4></a>`,
+      title: `This hidden gem is quickly becoming the #1 sought-after survival offer. Dominates on Facebook, YouTube.`,
     },
     {
       id: 4,
       img: `<img class="img-fluid" src="./img/vol-7/b-4.jpg" alt="">`,
-      link: `<a href="https://4d6dcjlir7ttcp101isjh3ux52.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Forex Candlesticks Made Easy: Simplified trading insights.</h4></a>`,
-      title: `Converts at 8.41% (1:12). Related: Forex, FX, currency, trading, investment, candlestick, stock, finance, Fibonacci, chart.`,
+      link: `<a href="https://b9990qoboyou4m09j7-93kjdqz.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Naked Soulmate Sketch - CRUSHING It On TIkTok & Social Media</h4></a>`,
+      title: `Makers of Master Wang Soulmate Drawings Brings You Naked Soulmate Sketch. Completely New Take On Soulmate Drawings. Huge $EPCs, Converting Crazy On Email, TikTok, FB, IG & YouTube!`,
     },
   ],
 
+  amazonPlatform: [
+    {
+      id: 1,
+      img: `<img class="img-fluid" src="./img/vol-8/b-1.jpg" alt="">`,
+      link: `<a href="https://37e12je9w5t07l80j8p7kfkz06.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>AffiliNinja - Amazon Affiliate Marketing Plugin</h4></a>`,
+      title: `The easiest way to add affiliate products to your WordPress site`,
+    },
+    {
+      id: 2,
+      img: `<img class="img-fluid" src="./img/vol-8/b-2.jpg" alt="">`,
+      link: `<a href="https://bb0f8nhfo0m1bybqi7xr6y3dz5.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>The 24 Hour Book System + 2 Upsells For Amazon Book Publishing</h4></a>`,
+      title: `High-converting front-end book writing program with 2 Amazon Kindle publishing upsells and recurring backend.`,
+    },
+    {
+      id: 3,
+      img: `<img class="img-fluid" src="./img/vol-8/b-3.jpg" alt="">`,
+      link: `<a href="https://2c62ckhkt1xt0m9uqio924ejlq.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Wholesale Designer Directory</h4></a>`,
+      title: `The #1 resource for finding wholesale suppliers of authentic designer merchandise—handbags, clothing, shoes.`,
+    },
+    {
+      id: 4,
+      img: `<img class="img-fluid" src="./img/vol-8/b-4.jpg" alt="">`,
+      link: `<a href="https://b9990qoboyou4m09j7-93kjdqz.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Learning To Play The Guitar - An Absolute Beginner's Guide eBook</h4></a>`,
+      title: `A comprehensive beginner guitar eBook with 24 structured step-by-step lessons covering need to know topics to play the guitar.`,
+    },
+  ],
+  searchRankingStrategy: [
+    {
+      id: 1,
+      img: `<img class="img-fluid" src="./img/vol-9/b-1.jpg" alt="">`,
+      link: `<a href="https://1e322pfhw8t2fvb5rca32auwb8.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Keyword Researcher - SEO Software </h4></a>`,
+      title: `A software application that helps you discover Long Tail Keywords. Organize your keywords. Import CSV Files from the Google Keyword tool. `,
+    },
+    {
+      id: 2,
+      img: `<img class="img-fluid" src="./img/vol-9/b-2.jpg" alt="">`,
+      link: `<a href="https://www.powersuggestpro.com/jv/index.html"><h4>Power Suggest Pro: Keyword Research Software</h4></a>`,
+      title: `Power Suggest Pro is a keyword and market research software that leverages on the auto-suggestions of multiple search engines to reveal millions of low-competition long-tail keywords.`,
+    },
+    {
+      id: 3,
+      img: `<img class="img-fluid" src="./img/vol-9/b-3.jpg" alt="">`,
+      link: `<a href="https://50188esh14ox0rait-ue8p9kea.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Videly - Rank On Page</h4></a>`,
+      title: `Videly will help you RANK on the first page of YT and Google with only 3 clicks! Perfect for MMO, SEO, Ranking, Local and Video audiences!`,
+    },
+    {
+      id: 4,
+      img: `<img class="img-fluid" src="./img/vol-9/b-4.jpg" alt="">`,
+      link: `<a href="https://d5b1blhetwp30q93vfk2emq4wj.hop.clickbank.net/?&traffic_source=google&traffic_type=organic"><h4>Making Content They Can't Refuse</h4></a>`,
+      title: `High conversion rates on this eBook on how to start your first or next successful blog.`,
+    },
+  ],
 };
 
 // ClickBankProduct businessInvesting section 
@@ -408,14 +460,14 @@ ClickBankProductContainer_7();
 
 
 
-// ClickBankProduct directOfferTracking section  
+// ClickBankProduct amazonPlatform section  
 
 const ClickBankProductContainer_8 = () => {
   let ClickBankProductHtml_8 = document.querySelector(
     ".html-ClickBankProduct_8"
   );
   let displayClickBankProductItem_8 = "";
-  ClickBankProduct.directOfferTracking.map(
+  ClickBankProduct.amazonPlatform.map(
     (ClickBankProductItem_8) => {
       const { img, title, link} =
         ClickBankProductItem_8;
@@ -440,14 +492,14 @@ ClickBankProductContainer_8();
 
 
 
-// ClickBankProduct directOfferTracking section  
+// ClickBankProduct searchRankingStrategy section  
 
 const ClickBankProductContainer_9 = () => {
   let ClickBankProductHtml_9 = document.querySelector(
     ".html-ClickBankProduct_9"
   );
   let displayClickBankProductItem_9 = "";
-  ClickBankProduct.directOfferTracking.map(
+  ClickBankProduct.searchRankingStrategy.map(
     (ClickBankProductItem_9) => {
       const { img, title, link} =
         ClickBankProductItem_9;
