@@ -2,35 +2,30 @@
 
 
 const ShareAsaleBlog = {
-    ShareAsaleUnggx_Blog:[
-        {
-            id: 1,
-            img: ` <img class="img-fluid" src="./assets/images/bannerbg/UNGEX-Pty Ltd-Banishing-Eyelash Mites.jpg" alt="">`,
-            title: `From Our Blog`,
-            text: ` Banishing Eyelash Mites`,
-            link: `<a href="Banishing Eyelash Mites" class="btn btn-primary">View Blog</a>`
-
-        },
-        {
-            id: 2,
-            img: ` <img class="img-fluid" src="./assets/images/bannerbg/UNGEX-Pty Ltd-Skincare.jpg" alt="">`,
-            title: `From Our Blog`,
-            text: ` A Critical Insight for Skincare`,
-            link: `<a href="http://shrsl.com/4ll0w" class="btn btn-primary">View Blog</a>`
-
-
-        },
-        {
-            id: 3,
-            img: ` <img class="img-fluid" src="./assets/images/bannerbg/UNGEX-Pty Ltd-Coconut-Oil for-Skin.jpg" alt="">`,
-            title: `From Our Blog`,
-            text: `Coconut Oil for Skin Whitening`,
-            link: `<a href="http://shrsl.com/4ll0w" class="btn btn-primary">View Blog</a>`  
-
-
-        },
-    ],
-}
+  ShareAsaleUnggx_Blog: [
+    {
+      id: 1,
+      img: ` <img class="img-fluid" src="./assets/images/bannerbg/blog-1.jpg" alt="">`,
+      title: `From Our Blog`,
+      text: ` Understanding Autoimmune Diseases`,
+      link: `<a href="http://shrsl.com/4nwtq" class="btn btn-primary">View Blog</a>`,
+    },
+    {
+      id: 2,
+      img: ` <img class="img-fluid" src="./assets/images/bannerbg/blog-2.jpg" alt="">`,
+      title: `From Our Blog`,
+      text: ` What Makes Demodex Mites Worse?`,
+      link: `<a href="http://shrsl.com/4nwtu" class="btn btn-primary">View Blog</a>`,
+    },
+    {
+      id: 3,
+      img: ` <img class="img-fluid" src="./assets/images/bannerbg/blog-3.jpg" alt="">`,
+      title: `From Our Blog`,
+      text: `Demodex Mite Removal Solutions `,
+      link: `<a href="http://shrsl.com/4nwtw" class="btn btn-primary">View Blog</a>`,
+    },
+  ],
+};
 
 // ShareAsaleBlog lightinthebox_electronics section 
 
