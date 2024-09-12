@@ -5,7 +5,7 @@ const serviceCollect = [
     id: 1,
     img: `<img src="./img/service/service-1.jpeg" class="img-fluid rounded-top w-100" alt="">`,
     title: ` Business & Investing `,
-    body: ` Master the digital landscape with cutting-edge strategies in e-business and e-marketing to drive online growth and customer engagement.`,
+    body: ` Unlock the potential of your business with expert insights, proven strategies, and innovative approaches to smart investing and sustainable growth`,
     link: `<a class="btn btn-primary text-white rounded-pill py-2 px-4" href="./business/index.html#business">Learn More</a> `,
   },
   {
